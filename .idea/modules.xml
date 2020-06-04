@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Actions/Actions.iml" filepath="$PROJECT_DIR$/Actions/Actions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Selenium_Java_Basics.iml" filepath="$PROJECT_DIR$/Selenium_Java_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebDriver Features/WebDriver Features.iml" filepath="$PROJECT_DIR$/WebDriver Features/WebDriver Features.iml" />
     </modules>
   </component>
 </project>
